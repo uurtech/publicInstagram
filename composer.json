@@ -1,0 +1,14 @@
+{
+    "name": "ugurkazdal/instagram",
+    "description": "This class does not use any api, just get html string and returns images.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ugur KAZDAL",
+            "email": "ugur.kazdal@1ki3.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
