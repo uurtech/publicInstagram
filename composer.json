@@ -6,16 +6,17 @@
     "authors": [
         {
             "name": "Ugur KAZDAL",
-            "email": "ugur.kazdal@1ki3.com"
+            "email": "ugur.kazdal@1ki3.com",
+            "homepage" : "https://phpanaliz.com"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "require": {
         "php": ">=7.0"
     },
     "autoload": {
         "psr-0": {
-            "KazdalInstagram": "src/"
+            "KazdalInstagram\\": "src/"
         }
     }
 }
