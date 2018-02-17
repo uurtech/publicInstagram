@@ -7,7 +7,7 @@ namespace KazdalInstagram;
 *
 *  @author Uğur KAZDAL
 */
-class GetInstagramFeed{
+class Feed{
 
     /** 
      * Call getImages(['user' => 'USERNAME' , 'type' => 'json'])
